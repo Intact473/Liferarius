@@ -1,0 +1,44 @@
+.menu-collapser{
+    color:#fff;
+    background-color:#a9a9a9;
+  }
+  .collapse-button{
+    color:#fff;
+    background-color:#d7d7d7;
+  }
+    .collapse-button:hover,.collapse-button:focus{
+      color:#fff;
+      background-color:#d7d7d7  }
+    .collapse-button .icon-bar{
+      background-color:#fff;
+    }
+    ul.slimmenu{
+      background-color: #a9a9a9;
+      border-top: 1px solid #cc3300;
+    }
+    ul.slimmenu li{
+      background-color:#a9a9a9;
+    }
+    ul.slimmenu li ul li{
+      background:#e6e6e6  }
+      ul.slimmenu li ul li a:hover{
+          background:#fafafa	}
+    ul.slimmenu a{
+      color:#cc3300;
+      border-top:none;
+    }
+    ul.slimmenu li a:hover{
+      background-color:#e6e6e6  }
+    ul.slimmenu li .sub-toggle>i{
+      color:#000000;
+    }
+    ul.slimmenu>li{
+      border-left:1px solid #cc3300  }
+    ul.slimmenu>li:first-child,ul.slimmenu>li.has-submenu+li{
+      border-left:0
+    }
+    ul.slimmenu.collapsed li{
+      border: none;
+      border-bottom:1px solid #cc3300;
+    }
+  

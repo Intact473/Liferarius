@@ -1,0 +1,165 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.container { 
+    height:100vh;
+    display: grid; 
+    grid-template-rows: auto auto auto;
+    grid-template-columns: 33% 33% 33%;
+    justify-content: center;
+    background: -webkit-radial-gradient(32% 106%, circle cover, rgb(255, 225, 125) 0%, rgb(255, 205, 105) 10%, rgb(250, 145, 55) 28%, rgb(235, 65, 65) 42%, transparent 82%), -webkit-linear-gradient(-45deg, rgb(35, 75, 215) 12%, rgb(195, 60, 190) 58%);
+  background: -moz-radial-gradient(32% 106%, circle cover, rgb(255, 225, 125) 0%, rgb(255, 205, 105) 10%, rgb(250, 145, 55) 28%, rgb(235, 65, 65) 42%, transparent 82%), -moz-linear-gradient(-45deg, rgb(35, 75, 215) 12%, rgb(195, 60, 190) 58%);
+  background: -ms-radial-gradient(32% 106%, circle cover, rgb(255, 225, 125) 0%, rgb(255, 205, 105) 10%, rgb(250, 145, 55) 28%, rgb(235, 65, 65) 42%, transparent 82%), -ms-linear-gradient(-45deg, rgb(35, 75, 215) 12%, rgb(195, 60, 190) 58%);
+  background: -o-radial-gradient(32% 106%, circle cover, rgb(255, 225, 125) 0%, rgb(255, 205, 105) 10%, rgb(250, 145, 55) 28%, rgb(235, 65, 65) 42%, transparent 82%), -o-linear-gradient(-45deg, rgb(35, 75, 215) 12%, rgb(195, 60, 190) 58%);
+  background: radial-gradient(circle farthest-corner at 32% 106%, rgb(255, 225, 125) 0%, rgb(255, 205, 105) 10%, rgb(250, 145, 55) 28%, rgb(235, 65, 65) 42%, transparent 82%), linear-gradient(135deg, rgb(35, 75, 215) 12%, rgb(195, 60, 190) 58%);
+}
+header { 
+    background: transparent;
+} 
+article { 
+    background: transparent;  
+} 
+footer { 
+    background:transparent;
+}
+.N {
+    background-color:transparent;
+}
+.NW {
+    background-color:transparent;
+}
+.NO {
+    background-color: transparent;
+}
+.SW a{
+    text-decoration: none;
+}
+.SW a h3{
+    color: #fff;
+}
+.S {
+    background-color: transparent;
+}
+.SO {
+    background-color: transparent;
+}
+.SO a{
+    text-decoration: none;
+}
+.SO a h3{
+    color: #fff;
+}
+.SW {
+    background-color:transparent;
+}
+.O{
+    background-color:transparent;
+}
+.W {
+    background-color: transparent;
+}
+.M{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.M {
+    background-color: transparent;
+}
+.SO h1{
+    color: #fff;
+}
+.SW h1{
+    color: #fff;
+}
+.SW pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.SW a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.SO pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.SO a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.SO h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.SW h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.SW h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.SW h2{
+    color: #fff;
+}
+.N h1 ins{
+    color: #fff
+}
+.N{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.SO h2{
+    color: #fff;
+}
+.SO h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.NO {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.NW {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.S h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.S h2{
+    color: #fff;
+}
+.S h1{
+    color:#fff;
+}
+.S h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+.S a{
+    text-decoration: none;
+}
+.N h1 ins{
+    font-family:Pristina;
+    font-size:35pt;
+}
