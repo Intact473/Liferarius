@@ -22,6 +22,6 @@ function validate()
         }
             else
             {
-                alert("Ups, da hat etwas anscheind nicht geklappt")
+                alert("Ups, da hat etwas anscheind nicht geklappt!")
             }
 }
