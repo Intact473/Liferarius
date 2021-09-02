@@ -5,19 +5,19 @@ function validate()
     
     if(email =="Patrick" && password == "t-34")
         {
-            alert("Sie wurden erfolgreich eingeloggt");
+            //alert("Sie wurden erfolgreich eingeloggt");
             window.location.href ="C:\\Users\\STP1NU\\Documents\\Projekte\\Liferarius\\Weiterleitungen_Rad\\Login\\Lieferliste.html";
         }
         else
-        if(email =="Marius" && password =="pussyschlitzer187")
+        if(email =="Marius" && password =="fotzenlecker")
         {
-            alert("Sie wurden erfolgreich eingeloggt");
+            //alert("Sie wurden erfolgreich eingeloggt");
             window.location.href ="C:\\Users\\STP1NU\\Documents\\Projekte\\Liferarius\\Weiterleitungen_Rad\\Login\\Lieferliste.html";
         }
         else
         if(email =="Roman" && password =="PatrickMariusRoman")
         {
-            alert("Sie wurden erfolgreich eingeloggt");
+            //alert("Sie wurden erfolgreich eingeloggt");
             window.location.href ="C:\\Users\\STP1NU\\Documents\\Projekte\\Liferarius\\Weiterleitungen_Rad\\Login\\Lieferliste.html";
         }
             else
