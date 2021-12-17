@@ -20,5 +20,18 @@ downBtn.onclick = function()
 }
 //Steuerung über die Pfeiltasten
 
-var upBtn = document.getElementById("upBtn");
-var downBtn = document.getElementById("downBtn");
+var upKey = document.getElementById("upKey");
+var downKey = document.getElementById("downKey");
+
+function keyPushUp(evtl) {
+    rotateSum = rotateValue + "rotate(-90deg)";
+    circle.style.transform = rotateSum;
+    rotateValue = rotateSum;
+    circle = visi
+}
+
+function keyPushDown(evtl) {
+    rotateSum = rotateValue + "rotate(90deg)";
+    circle.style.transform = rotateSum;
+    rotateValue = rotateSum;
+}
